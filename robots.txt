@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chmarema.github.io/sitemap
+Sitemap: https://chmarema.github.io/app/sitemap
+Sitemap: https://chmarema.github.io/assets/sitemap
+Sitemap: https://chmarema.github.io/css/sitemap
+Sitemap: https://chmarema.github.io/includes/sitemap
+Sitemap: https://chmarema.github.io/item/sitemap
+Sitemap: https://chmarema.github.io/src/sitemap
